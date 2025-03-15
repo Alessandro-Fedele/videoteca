@@ -1,0 +1,35 @@
+html {
+  background-color: #141414;
+}
+
+:root {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  font-family: "Quicksand", sans-serif;
+  color: #fff;
+  font-synthesis: none;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
+
+/* SCROOLBAR */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: rgb(153, 147, 147);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(rgb(153, 147, 147), 0.35);
+  border-radius: 20px;
+  border: 1px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(14, 14, 85, 0.671);
+}
+/* SCROOLBAR */

@@ -1,0 +1,19 @@
+@import "../styles/_fonts.css";
+@import "../styles/_reset.css";
+@import "../styles/_init.css";
+
+body {
+  padding: 12px;
+}
+
+header {
+  padding: 8px 0;
+  font-size: 18px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  font-size: 8px;
+  margin-top: 24px;
+}

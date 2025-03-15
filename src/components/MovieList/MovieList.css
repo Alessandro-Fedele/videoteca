@@ -1,0 +1,42 @@
+.search-bar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 12px 0;
+}
+
+.category {
+  margin-bottom: 8px;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-family: "Oswald", sans-serif;
+  font-size: 14px;
+}
+
+.movie-list {
+  display: flex;
+  overflow-x: auto;
+  gap: 8px;
+  padding-bottom: 10px;
+  scrollbar-width: none; /* Nasconde la scrollbar su Firefox */
+}
+
+.movie-list::-webkit-scrollbar {
+  display: none; /* Nasconde la scrollbar su Chrome e Safari */
+}
+
+img {
+  width: 100px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+.no-results {
+  text-align: center;
+  font-size: 18px;
+  color: #888;
+  margin: 32px 0;
+}
