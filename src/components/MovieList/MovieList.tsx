@@ -64,6 +64,7 @@ export default function MovieList() {
 
   return (
     <div>
+      <h3>{movies?.length} titoli</h3>
       {/* 🔍 Campo di ricerca */}
       <div className="search-bar">
         <SearchInput value={search} onChange={setSearch} />
@@ -87,7 +88,7 @@ export default function MovieList() {
           </div>
         ))
       ) : (
-        <p className="no-results">Non ho questo film!</p>
+        <p className="no-results">Mi dispiace, non ho questo film!</p>
       )}
     </div>
   );
