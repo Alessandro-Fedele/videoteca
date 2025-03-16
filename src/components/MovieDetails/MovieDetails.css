@@ -75,7 +75,7 @@
 
 .film-position-modal {
   width: 90%;
-  background-color: #3a3a3a;
+  background-color: #555454;
   border-radius: 8px;
   padding: 12px;
 }
@@ -104,17 +104,17 @@
 
 .videoteca {
   margin: 14px 0 16px 0;
-  border-top: 16px solid #352720;
-  border-right: 10px solid #352720;
-  border-left: 10px solid #352720;
-  border-bottom: 6px solid #352720;
+  border-top: 16px solid #382922;
+  border-right: 10px solid #382922;
+  border-left: 10px solid #382922;
+  border-bottom: 6px solid #382922;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .fila {
   height: 50px;
   width: 100%;
-  border-bottom: 10px solid #352720;
+  border-bottom: 10px solid #382922;
   display: flex;
   box-shadow: inset 0px 0px 6px 4px rgba(0, 0, 0, 0.35);
 }
