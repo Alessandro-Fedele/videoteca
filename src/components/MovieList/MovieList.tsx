@@ -44,7 +44,8 @@ export default function MovieList() {
     return movies.filter(
       (movie) =>
         movie.title?.toLowerCase().includes(query) ||
-        movie.original_title?.toLowerCase().includes(query)
+        movie.original_title?.toLowerCase().includes(query) ||
+        movie.regista.toLowerCase().includes(query)
     );
   }, [search, movies]);
 

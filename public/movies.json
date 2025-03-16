@@ -403,7 +403,7 @@
     "poster_path": "/jQyAtBVLTLdEM5DYXvt7EiNgUou.jpg",
     "release_date": "2002-12-12",
     "position": "F1S1",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Alexander Payne"
   },
@@ -415,7 +415,7 @@
     "poster_path": "/kf493fwH6DM9sNZ798Qf9NnSsBG.jpg",
     "release_date": "2007-05-22",
     "position": "F1S1",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -427,7 +427,7 @@
     "poster_path": "/vJS2cN4tyJu1OOhastxW85AMzt0.jpg",
     "release_date": "1971-12-19",
     "position": "F1S1",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Stanley Kubrick"
   },
@@ -439,7 +439,7 @@
     "poster_path": "/4jKKd5p6j6demkAhfNKU6b9twOu.jpg",
     "release_date": "2010-07-16",
     "position": "F1S1",
-    "genere": [],
+    "genere": [9],
     "vote": "",
     "regista": "Hiromasa Yonebayashi"
   },
@@ -451,7 +451,7 @@
     "poster_path": "/wfLaGPe5zQH1TWmChInbmg8vCEs.jpg",
     "release_date": "1994-08-26",
     "position": "F1S1",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Oliver Stone"
   },
@@ -463,7 +463,7 @@
     "poster_path": "/A61sCUVVFw4XGnbY1Hj72VBOlh3.jpg",
     "release_date": "2000-03-03",
     "position": "F1S1",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Takashi Miike"
   },
@@ -487,7 +487,7 @@
     "poster_path": "/bWezs5KaRGomGLclXIfXOpeEyxU.jpg",
     "release_date": "2016-02-05",
     "position": "F1S1",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Joel Coen, Ethan Coen"
   },
@@ -511,7 +511,7 @@
     "poster_path": "/rS8C4Rk1fcWP9qocfi12NQnc2Ir.jpg",
     "release_date": "2017-06-28",
     "position": "F1S1",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Edgar Wright"
   },
@@ -523,7 +523,7 @@
     "poster_path": "/qkoHNPOpvOiMl6CJbsdo09katqx.jpg",
     "release_date": "1988-11-09",
     "position": "F1S1",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Tom Holland"
   },
@@ -547,7 +547,7 @@
     "poster_path": "/lnI1tA8SkCZ6zipZGTQvuHyJ3BM.jpg",
     "release_date": "1975-12-18",
     "position": "F1S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Stanley Kubrick"
   },
@@ -655,7 +655,7 @@
     "poster_path": "/bsVAjDLllFLEkuS1HwU96bbvkw5.jpg",
     "release_date": "2001-12-14",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Ron Howard"
   },
@@ -739,7 +739,7 @@
     "poster_path": "/ixqOju8zgZUmfclMyhI0IUhJbkJ.jpg",
     "release_date": "2014-10-17",
     "position": "F1S2",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Alejandro González Iñárritu"
   },
@@ -835,7 +835,7 @@
     "poster_path": "/p194PK6FdRpqsMMlkJBwwPMVPhL.jpg",
     "release_date": "2009-12-04",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Nimród Antal"
   },
@@ -847,7 +847,7 @@
     "poster_path": "/pPXpYtQXm3ym9WlTD03poYpX9dH.jpg",
     "release_date": "2001-04-04",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Ted Demme"
   },
@@ -859,7 +859,7 @@
     "poster_path": "/hRmhnTyAn22Wk4sQBPEqZ5hPrv.jpg",
     "release_date": "2013-08-01",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Woody Allen"
   },
@@ -871,7 +871,7 @@
     "poster_path": "/aEQnyfz2hbSaIwuYrtYVkQnira0.jpg",
     "release_date": "1980-06-16",
     "position": "F1S2",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "John Landis"
   },
@@ -883,7 +883,7 @@
     "poster_path": "/bVIARvZxwhAhW67SifES5EZ7dry.jpg",
     "release_date": "2010-12-26",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Derek Cianfrance"
   },
@@ -907,7 +907,7 @@
     "poster_path": "/idTJGGwgS9ybtlW3tcLPx3l9OMB.jpg",
     "release_date": "2009-03-13",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Nicolas Winding Refn"
   },
@@ -919,7 +919,7 @@
     "poster_path": "/2WrkJWFgV6S2wjY8LzwiC4u3mER.jpg",
     "release_date": "2000-12-13",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Takeshi Kitano"
   },
@@ -943,7 +943,7 @@
     "poster_path": "/6VG9XFig4djqZEEot3PGGWeIpkf.jpg",
     "release_date": "2010-09-01",
     "position": "F1S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Guy Moshe"
   },
@@ -979,7 +979,7 @@
     "poster_path": "/yqQpiA2p5hgPaMW4dt44jZnNDGf.jpg",
     "release_date": "2013-04-11",
     "position": "F1S2",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Neil Jordan"
   },
@@ -1063,7 +1063,7 @@
     "poster_path": "/cdD6aBaiApx0n6cIYEDkSA5vNSv.jpg",
     "release_date": "1943-01-15",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Michael Curtiz"
   },
@@ -1087,7 +1087,7 @@
     "poster_path": "/bUQRgD54q9OrwHrvJN36jJiWhoP.jpg",
     "release_date": "1995-11-22",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Martin Scorsese"
   },
@@ -1099,7 +1099,7 @@
     "poster_path": "/qplE2N7QWTO6w7X8zW46X3cGUBZ.jpg",
     "release_date": "2006-11-14",
     "position": "F1S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Martin Campbell"
   },
@@ -1183,7 +1183,7 @@
     "poster_path": "/wW5t1FNg3ZHQu5sXeShyaN3oU9Z.jpg",
     "release_date": "2019-07-24",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -1195,7 +1195,7 @@
     "poster_path": "/7KuRRyFasbLFwanitRatvbymTpl.jpg",
     "release_date": "1984-05-23",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Sergio Leone"
   },
@@ -1219,7 +1219,7 @@
     "poster_path": "/8ywGVdTirhVsGcPueCH3V5X7SmM.jpg",
     "release_date": "2008-10-24",
     "position": "F1S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -1231,7 +1231,7 @@
     "poster_path": "/nChElNDgCIwFnNXNEMpk1WGGgTH.jpg",
     "release_date": "2008-02-14",
     "position": "F1S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Na Hong-jin"
   },
@@ -1339,7 +1339,7 @@
     "poster_path": "/6QGBZO3YfPdkcNzlJBnCvJvTH3g.jpg",
     "release_date": "2010-06-04",
     "position": "F1S3",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Tetsuya Nakashima"
   },
@@ -1351,7 +1351,7 @@
     "poster_path": "/1zBjPONy8KVGnY59bBlcdBsIbBS.jpg",
     "release_date": "2010-08-16",
     "position": "F1S3",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Guillem Morales"
   },
@@ -1387,7 +1387,7 @@
     "poster_path": "/7oTOHWsQWlAxKrd27xY9pOCFAFj.jpg",
     "release_date": "1961-06-15",
     "position": "F1S3",
-    "genere": [],
+    "genere": [8],
     "vote": "",
     "regista": "Sergio Leone"
   },
@@ -1435,7 +1435,7 @@
     "poster_path": "/6HertSiqPs71yQmHgDEUTCMb9XL.jpg",
     "release_date": "2015-11-25",
     "position": "F1S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Ryan Coogler"
   },
@@ -1483,7 +1483,7 @@
     "poster_path": "/h9svAWnZDWGCAzS6yxjSPZ9SNWm.jpg",
     "release_date": "2007-10-26",
     "position": "F1S3",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Takashi Miike"
   },
@@ -1495,7 +1495,7 @@
     "poster_path": "/q1J4G89rzFred6KDApXxU6FxAUZ.jpg",
     "release_date": "1990-08-17",
     "position": "F1S3",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "David Lynch"
   },
@@ -1543,7 +1543,7 @@
     "poster_path": "/6I2z4aVKJSYhMJbR9ScVloSyGH2.jpg",
     "release_date": "1968-02-17",
     "position": "F1S3",
-    "genere": [],
+    "genere": [9],
     "vote": "",
     "regista": "Damiano Damiani"
   },
@@ -1555,7 +1555,7 @@
     "poster_path": "/8UE8zUv0YZ5BopB0W32Q3IdJHXo.jpg",
     "release_date": "1995-12-23",
     "position": "F1S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Jim Jarmusch"
   },
@@ -1567,7 +1567,7 @@
     "poster_path": "/zoSiiUUzg2ny6uzuil7PbP13z53.jpg",
     "release_date": "2016-02-09",
     "position": "F1S3",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Tim Miller"
   },
@@ -1579,7 +1579,7 @@
     "poster_path": "/xF3ACRWTYqrfF488JJRc4tWItnW.jpg",
     "release_date": "2018-05-15",
     "position": "F1S3",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "David Leitch"
   },
@@ -1615,7 +1615,7 @@
     "poster_path": "/mSEFwJ1y7V3dmyfX0Yn4GIyXvqi.jpg",
     "release_date": "2006-10-04",
     "position": "F1S3",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Martin Scorsese"
   },
@@ -1735,7 +1735,7 @@
     "poster_path": "/3Q41QdROiYoEMY0qXhfRMT5DbPd.jpg",
     "release_date": "2012-12-25",
     "position": "F1S3",
-    "genere": [],
+    "genere": [12],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -1819,7 +1819,7 @@
     "poster_path": "/9mrhQ4HGNRIcjZpTXeHXxYlJegd.jpg",
     "release_date": "2018-04-04",
     "position": "F1S3",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Gus Van Sant"
   },
@@ -1855,7 +1855,7 @@
     "poster_path": "/oKRRkFo4dOwwn6dY79Ay5oTnNmw.jpg",
     "release_date": "2019-02-21",
     "position": "F1S4",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "S. Craig Zahler"
   },
@@ -1879,7 +1879,7 @@
     "poster_path": "/scTZGnrw4Rh9qm94LID6uxiTUHN.jpg",
     "release_date": "2011-09-15",
     "position": "F1S4",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Nicolas Winding Refn"
   },
@@ -1939,7 +1939,7 @@
     "poster_path": "/aMh3OtqrC6P0Q1SZRQxfLWUboyN.jpg",
     "release_date": "1976-12-16",
     "position": "F1S4",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -1963,7 +1963,7 @@
     "poster_path": "/jcLnUF9pGsqQlhT3J8TMazeDCJH.jpg",
     "release_date": "1968-12-04",
     "position": "F1S4",
-    "genere": [],
+    "genere": [11],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -1975,7 +1975,7 @@
     "poster_path": "/vbbeuAdGQNo9qOl4NVOmTQNQbY7.jpg",
     "release_date": "1997-02-14",
     "position": "F1S4",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -2059,7 +2059,7 @@
     "poster_path": "/9WfkdEGHO8K0AF8ahbc34zMzM4e.jpg",
     "release_date": "1995-12-29",
     "position": "F1S4",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Terry Gilliam"
   },
@@ -2083,7 +2083,7 @@
     "poster_path": "/paR1quNU2HSq8gjvl2el0QHnncw.jpg",
     "release_date": "1999-10-29",
     "position": "F1S4",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Spike Jonze"
   },
@@ -2107,7 +2107,7 @@
     "poster_path": "/p5A8mwkMhO3NV9ozbpe7TaKEIoV.jpg",
     "release_date": "1950-11-09",
     "position": "F1S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Joseph L. Mankiewicz"
   },
@@ -2167,7 +2167,7 @@
     "poster_path": "/syznXeA6Ek6zkgNSwEBa7OLFlL4.jpg",
     "release_date": "1967-06-15",
     "position": "F1S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Hideo Gosha"
   },
@@ -2215,7 +2215,7 @@
     "poster_path": "/hr8ghKbdo3UGUROYafpN38Sohfe.jpg",
     "release_date": "2004-10-15",
     "position": "F1S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Kim Ki-duk"
   },
@@ -2275,7 +2275,7 @@
     "poster_path": "/jGWCzlTEIfTAl6MdWRYIgUKSs0N.jpg",
     "release_date": "2023-09-14",
     "position": "F1S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Aki Kaurismäki"
   },
@@ -2299,7 +2299,7 @@
     "poster_path": "/rHLkAXTqAo2lPgfXOvihMsoinzg.jpg",
     "release_date": "1974-12-15",
     "position": "F1S4",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Mel Brooks"
   },
@@ -2311,7 +2311,7 @@
     "poster_path": "/42h78fzAKy9jY3lG7mvOvfgl2Bi.jpg",
     "release_date": "2008-10-16",
     "position": "F1S4",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Gerald McMorrow"
   },
@@ -2371,7 +2371,7 @@
     "poster_path": "/rCxKc45Nwv1FRXv2VQjvmBqUyc3.jpg",
     "release_date": "2002-12-14",
     "position": "F1S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Martin Scorsese"
   },
@@ -2383,7 +2383,7 @@
     "poster_path": "/7RrgAqx4aNU5aStG71lj6gKd8ZB.jpg",
     "release_date": "2019-05-15",
     "position": "F1S4",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Lee Won-tae"
   },
@@ -2443,7 +2443,7 @@
     "poster_path": "/iuSIdDaI38VDf0bdRMhORWrIzyU.jpg",
     "release_date": "1993-02-26",
     "position": "F2S1",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Joel Schumacher"
   },
@@ -2467,7 +2467,7 @@
     "poster_path": "/eCeMqcjT1pQ3qlseY374bXX6LLX.jpg",
     "release_date": "2019-01-16",
     "position": "F2S1",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "M. Night Shyamalan"
   },
@@ -2479,7 +2479,7 @@
     "poster_path": "/42KK5H6oo30LxQ9PtYoUklPltrM.jpg",
     "release_date": "2000-05-04",
     "position": "F2S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Ridley Scott"
   },
@@ -2491,7 +2491,7 @@
     "poster_path": "/cHrToLavIUZIiBcjR7yESMwdBt0.jpg",
     "release_date": "1989-12-15",
     "position": "F2S1",
-    "genere": [],
+    "genere": [11],
     "vote": "",
     "regista": "Edward Zwick"
   },
@@ -2551,7 +2551,7 @@
     "poster_path": "/tY8gmrOOzhJxfBLQNOxjbuSR52b.jpg",
     "release_date": "2014-02-26",
     "position": "F2S1",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Wes Anderson"
   },
@@ -2575,7 +2575,7 @@
     "poster_path": "/iUxq28slqa0DlojIVamIoq2OdDC.jpg",
     "release_date": "1998-03-06",
     "position": "F2S1",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Joel Coen, Ethan Coen"
   },
@@ -2587,7 +2587,7 @@
     "poster_path": "/8cb1BGicQondVvOWhxBWKSKfQJv.jpg",
     "release_date": "2015-12-11",
     "position": "F2S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Adam McKay"
   },
@@ -2623,7 +2623,7 @@
     "poster_path": "/dTnAYyUwp6lT0cKrt4aNujj5mdF.jpg",
     "release_date": "2013-09-08",
     "position": "F2S1",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Eli Roth"
   },
@@ -2863,7 +2863,7 @@
     "poster_path": "/2ogVOei8k5WPixP2RVJFMn16zII.jpg",
     "release_date": "2015-12-25",
     "position": "F2S1",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -2887,7 +2887,7 @@
     "poster_path": "/4M9gl3QBZzJ8n9Jd9mVHeVQfjEx.jpg",
     "release_date": "2004-04-02",
     "position": "F2S1",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Guillermo del Toro"
   },
@@ -2923,7 +2923,7 @@
     "poster_path": "/nOy0X8XSmSDOuwV8pqT70WoWHwT.jpg",
     "release_date": "2010-10-22",
     "position": "F2S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -2947,7 +2947,7 @@
     "poster_path": "/kk83pJ23x9svXirx494h4g4cnSp.jpg",
     "release_date": "1986-03-07",
     "position": "F2S1",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Russell Mulcahy"
   },
@@ -3103,7 +3103,7 @@
     "poster_path": "/bGvkZZtWymiN3am617tpExQ0ow1.jpg",
     "release_date": "2006-08-18",
     "position": "F2S1",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Neil Burger"
   },
@@ -3115,7 +3115,7 @@
     "poster_path": "/85Qw9VfnPpKrWfDsvTy2H8p8CGk.jpg",
     "release_date": "2011-11-10",
     "position": "F2S1",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Tarsem Singh"
   },
@@ -3127,7 +3127,7 @@
     "poster_path": "/5QHWgqaBxZI1eM5e3YhyKzY5o3z.jpg",
     "release_date": "2010-07-15",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Christopher Nolan"
   },
@@ -3151,7 +3151,7 @@
     "poster_path": "/ze7y38gyujz2fhJcuPAYDL0rZSo.jpg",
     "release_date": "2006-12-06",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "David Lynch"
   },
@@ -3175,7 +3175,7 @@
     "poster_path": "/aGEMapmRAEhSIgAE4uXKTyHNZXi.jpg",
     "release_date": "1997-03-14",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Erik Skjoldbjærg"
   },
@@ -3247,7 +3247,7 @@
     "poster_path": "/kdX7c7Dsakmb54u1WfT5m584jNQ.jpg",
     "release_date": "2009-12-11",
     "position": "F2S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -3259,7 +3259,7 @@
     "poster_path": "/qs0aBlZ0Cw9eJ8SxG4wPd44CBPm.jpg",
     "release_date": "2016-04-08",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Karyn Kusama"
   },
@@ -3283,7 +3283,7 @@
     "poster_path": "/xAhsrqrsMIO7YwKbLAlWatzFbgX.jpg",
     "release_date": "2010-08-12",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Kim Jee-woon"
   },
@@ -3295,7 +3295,7 @@
     "poster_path": "/4VZ9eqel8Fsp54KMnesr3xIc67N.jpg",
     "release_date": "2010-06-17",
     "position": "F2S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Steven R. Monroe"
   },
@@ -3307,7 +3307,7 @@
     "poster_path": "/ltHMYXyzU9LhrwaE4U7uQSsCUKF.jpg",
     "release_date": "2017-06-09",
     "position": "F2S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Trey Edward Shults"
   },
@@ -3319,7 +3319,7 @@
     "poster_path": "/rjjpwWvEbYSLNsEjXZgKmPvhucl.jpg",
     "release_date": "1997-12-25",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -3331,7 +3331,7 @@
     "poster_path": "/xkyvGGjtUVYEYmdjhgVAfGr8oZn.jpg",
     "release_date": "2001-02-08",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Albert Hughes"
   },
@@ -3343,7 +3343,7 @@
     "poster_path": "/96XArHpUgN9jbr3LybIyRQs2MD6.jpg",
     "release_date": "1989-09-12",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Walter Hill"
   },
@@ -3355,7 +3355,7 @@
     "poster_path": "/wysly5f5sJdaVzx89407AWJlHJN.jpg",
     "release_date": "1995-12-15",
     "position": "F2S2",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Joe Johnston"
   },
@@ -3391,7 +3391,7 @@
     "poster_path": "/c2e0l4X8Owpcfuy8MTEmVji763s.jpg",
     "release_date": "2012-06-07",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "William Friedkin"
   },
@@ -3439,7 +3439,7 @@
     "poster_path": "/lgiiyVqImfScN55AguiehiuRyZR.jpg",
     "release_date": "2017-08-25",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Wilson Yip"
   },
@@ -3451,7 +3451,7 @@
     "poster_path": "/f4m4hkke6f6A2SbKetMjVnyxe9p.jpg",
     "release_date": "1990-07-18",
     "position": "F2S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Abel Ferrara"
   },
@@ -3463,7 +3463,7 @@
     "poster_path": "/wRXsnsHGDWemwg5NcqVv0JQyXZM.jpg",
     "release_date": "2008-10-24",
     "position": "F2S2",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Tomas Alfredson"
   },
@@ -3487,7 +3487,7 @@
     "poster_path": "/qQUDMuEgUYz6D6eg9H37FR5ujkE.jpg",
     "release_date": "2014-07-01",
     "position": "F2S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Scott Derrickson"
   },
@@ -3499,7 +3499,7 @@
     "poster_path": "/bQDv8j0IMpGI4sQAGKeWZDY4wpm.jpg",
     "release_date": "2021-11-26",
     "position": "F2S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Paul Thomas Anderson"
   },
@@ -3523,7 +3523,7 @@
     "poster_path": "/w8lnWLKBAEOT0o3GL1rpu9kZ6Q3.jpg",
     "release_date": "2019-10-18",
     "position": "F2S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Robert Eggers"
   },
@@ -3535,7 +3535,7 @@
     "poster_path": "/8NWciqzKL699N5KRjUNgNPab0om.jpg",
     "release_date": "2011-03-17",
     "position": "F2S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Neil Burger"
   },
@@ -3547,7 +3547,7 @@
     "poster_path": "/jbpP3bmiyDMmEussO9tDOrogsiI.jpg",
     "release_date": "1982-08-01",
     "position": "F2S2",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Slava Tsukerman"
   },
@@ -3571,7 +3571,7 @@
     "poster_path": "/8hDJ0q76dW65SU6sYO3q5J4qbPU.jpg",
     "release_date": "2006-07-26",
     "position": "F2S2",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Jonathan Dayton"
   },
@@ -3583,7 +3583,7 @@
     "poster_path": "/8vW5UY7ksIphLTqEUj46ly5Wclh.jpg",
     "release_date": "2015-10-15",
     "position": "F2S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Yorgos Lanthimos"
   },
@@ -3595,7 +3595,7 @@
     "poster_path": "/kfg00UuQ8ZA0ROr3cffCSuZRYBm.jpg",
     "release_date": "2014-04-10",
     "position": "F2S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Steven Knight"
   },
@@ -3607,7 +3607,7 @@
     "poster_path": "/4vCVa2IL0fvlNhkCONNDkopdRHc.jpg",
     "release_date": "2020-01-16",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Severin Fiala"
   },
@@ -3619,7 +3619,7 @@
     "poster_path": "/kHA8Ru0xKTa6ZW4UQWjsVwgtEHi.jpg",
     "release_date": "2017-02-28",
     "position": "F2S2",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "James Mangold"
   },
@@ -3631,7 +3631,7 @@
     "poster_path": "/67fLZxMQpAAVN5wbPPorgjpxbK2.jpg",
     "release_date": "1962-06-13",
     "position": "F2S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Stanley Kubrick"
   },
@@ -3643,7 +3643,7 @@
     "poster_path": "/oT1TJgXGoB7NMk84oWB76iz2ulk.jpg",
     "release_date": "2013-07-03",
     "position": "F2S2",
-    "genere": [],
+    "genere": [12],
     "vote": "",
     "regista": "Gore Verbinski"
   },
@@ -3655,7 +3655,7 @@
     "poster_path": "/fZsxWG3nbJyoV5gpfbXcRNtvQny.jpg",
     "release_date": "1997-01-15",
     "position": "F2S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "David Lynch"
   },
@@ -3679,7 +3679,7 @@
     "poster_path": "/u4nlqCI0tjVSZSbD9Lj9hf0e5at.jpg",
     "release_date": "2010-09-01",
     "position": "F2S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Robert Rodriguez"
   },
@@ -3691,7 +3691,7 @@
     "poster_path": "/giLLoD8EUYAa38K4H4bSdW0G6fx.jpg",
     "release_date": "2013-09-12",
     "position": "F2S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Robert Rodriguez"
   },
@@ -3751,7 +3751,7 @@
     "poster_path": "/5EG1C1mrak2WsP3xcluRQ74ZbDl.jpg",
     "release_date": "2016-06-08",
     "position": "F2S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Fede Alvarez"
   },
@@ -3763,7 +3763,7 @@
     "poster_path": "/5rdo14FzQTyIpw2E22PjlE4jfcs.jpg",
     "release_date": "2004-04-23",
     "position": "F2S3",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Tony Scott"
   },
@@ -3775,7 +3775,7 @@
     "poster_path": "/bGxhc8Cd908XbDxg5baDvbiVzUI.jpg",
     "release_date": "1996-12-13",
     "position": "F2S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Tim Burton"
   },
@@ -3787,7 +3787,7 @@
     "poster_path": "/1xZK6g1M6a7xlk8j7mSzls1qxz3.jpg",
     "release_date": "2008-06-12",
     "position": "F2S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Pascal Laugier"
   },
@@ -3811,7 +3811,7 @@
     "poster_path": "/japQvZ7z0wPvRQdLd9xxI7N8Y4P.jpg",
     "release_date": "2012-09-14",
     "position": "F2S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Paul Thomas Anderson"
   },
@@ -3871,7 +3871,7 @@
     "poster_path": "/t6XFZVOpGn8YBQyT9WZrZbonmRa.jpg",
     "release_date": "2024-07-04",
     "position": "F2S3",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Ti West"
   },
@@ -3883,7 +3883,7 @@
     "poster_path": "/jUbxPjUpRFh7wQ64wUIwV63rTAY.jpg",
     "release_date": "2014-09-10",
     "position": "F2S3",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Wes Ball"
   },
@@ -3895,7 +3895,7 @@
     "poster_path": "/jibVSxInjnboIdV4C7UjmFR38Er.jpg",
     "release_date": "1983-03-31",
     "position": "F2S3",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Terry Jones, Terry Gilliam"
   },
@@ -3907,7 +3907,7 @@
     "poster_path": "/cVsl8PKcdGj1AsP9qwiIvf38JJH.jpg",
     "release_date": "1991-02-02",
     "position": "F2S3",
-    "genere": [],
+    "genere": [8],
     "vote": "",
     "regista": "Gabriele Salvatores"
   },
@@ -3967,7 +3967,7 @@
     "poster_path": "/kptqTcldosy8JPf75JT16oTYUMB.jpg",
     "release_date": "1999-12-10",
     "position": "F2S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Frank Darabont"
   },
@@ -4003,7 +4003,7 @@
     "poster_path": "/g5DnSOYbYWaBvrZgelDwp1UraVP.jpg",
     "release_date": "2013-09-05",
     "position": "F2S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Kim Ki-duk"
   },
@@ -4159,7 +4159,7 @@
     "poster_path": "/sKkjknYPDoHavNkDbgcYecF93Co.jpg",
     "release_date": "2009-07-01",
     "position": "F2S3",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Michael Mann"
   },
@@ -4171,7 +4171,7 @@
     "poster_path": "/jXDrdzrlkOszAXOg7atjeAgypnz.jpg",
     "release_date": "2008-10-09",
     "position": "F2S3",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Ridley Scott"
   },
@@ -4351,7 +4351,7 @@
     "poster_path": "/et7Rkt23u2K98Jlf7o5jmIxdjqN.jpg",
     "release_date": "2022-04-07",
     "position": "F2S4",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Robert Eggers"
   },
@@ -4471,7 +4471,7 @@
     "poster_path": "/kPpRxJ1QsdPw1VAC8FwIg7OUwvG.jpg",
     "release_date": "1998-09-11",
     "position": "F2S4",
-    "genere": [],
+    "genere": [8],
     "vote": "",
     "regista": "Claudio Caligari"
   },
@@ -4483,7 +4483,7 @@
     "poster_path": "/zZDaQuvFiuEQv01y0HhGPsU6xIM.jpg",
     "release_date": "1999-12-22",
     "position": "F2S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Oliver Stone"
   },
@@ -4531,7 +4531,7 @@
     "poster_path": "/ccbiVLk3Mjv9JWBE91vyKj6sTkT.jpg",
     "release_date": "2007-05-20",
     "position": "F2S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "J.A. Bayona"
   },
@@ -4543,7 +4543,7 @@
     "poster_path": "/8IHmYNOFMV7lq6yhUKrWlLk2uxS.jpg",
     "release_date": "2012-09-03",
     "position": "F2S4",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Takeshi Kitano"
   },
@@ -4555,7 +4555,7 @@
     "poster_path": "/8sOG5AiVrB6xKfmpsoIqWGiqhin.jpg",
     "release_date": "2018-11-01",
     "position": "F2S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Julius Avery"
   },
@@ -4615,7 +4615,7 @@
     "poster_path": "/fOXeaCml23aYKi8DNS6vInqtD7U.jpg",
     "release_date": "2007-10-12",
     "position": "F2S4",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "James Gray"
   },
@@ -4699,7 +4699,7 @@
     "poster_path": "/lEs1vS1ek3zUyBxQjZUuH6tsN3P.jpg",
     "release_date": "2015-08-28",
     "position": "F2S4",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Fernando León de Aranoa"
   },
@@ -4759,7 +4759,7 @@
     "poster_path": "/9C8QUeYBbkZG7LDp3vKuCtmboTz.jpg",
     "release_date": "2007-04-06",
     "position": "F2S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Robert Rodriguez"
   },
@@ -4867,7 +4867,7 @@
     "poster_path": "/jzrDgaELbV5sGaYRktIymxnORb9.jpg",
     "release_date": "2006-05-05",
     "position": "F2S4",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Mark Fergus"
   },
@@ -4879,7 +4879,7 @@
     "poster_path": "/xKsiJimxRa44FArhlfGHnylrT0i.jpg",
     "release_date": "2006-10-17",
     "position": "F2S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Christopher Nolan"
   },
@@ -4927,7 +4927,7 @@
     "poster_path": "/8cGN4l3rkNquogFvPbNm3pUT2eq.jpg",
     "release_date": "2003-09-19",
     "position": "F3S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Kim Ki-duk"
   },
@@ -4939,7 +4939,7 @@
     "poster_path": "/jsS3a3ep2KyBVmmiwaz3LvK49b1.jpg",
     "release_date": "2013-09-19",
     "position": "F3S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Denis Villeneuve"
   },
@@ -4987,7 +4987,7 @@
     "poster_path": "/9p10J9Xp7MuaVac56g8BwAuXEsA.jpg",
     "release_date": "1994-09-10",
     "position": "F3S1",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Quentin Tarantino"
   },
@@ -5047,7 +5047,7 @@
     "poster_path": "/9igztf83CIFCcW2oQdBA8hy7Eln.jpg",
     "release_date": "2012-04-12",
     "position": "F3S1",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Drew Goddard"
   },
@@ -5059,7 +5059,7 @@
     "poster_path": "/hXVgcOM73wXYQ1pnMRV8N94M6GV.jpg",
     "release_date": "1975-09-21",
     "position": "F3S1",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Sidney Lumet"
   },
@@ -5107,7 +5107,7 @@
     "poster_path": "/ySAEf7ZjFPIORZQH0meOxiMANzs.jpg",
     "release_date": "1985-06-01",
     "position": "F3S1",
-    "genere": [],
+    "genere": [11],
     "vote": "",
     "regista": "Akira Kurosawa"
   },
@@ -5143,7 +5143,7 @@
     "poster_path": "/7gjGwYwj2aW8bUUJyWzesw54cPL.jpg",
     "release_date": "2011-09-28",
     "position": "F3S1",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Shawn Levy"
   },
@@ -5167,7 +5167,7 @@
     "poster_path": "/kMjCozRRk6FCzqbJYejzE6vT933.jpg",
     "release_date": "2010-03-18",
     "position": "F3S1",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Miguel Sapochnik"
   },
@@ -5275,7 +5275,7 @@
     "poster_path": "/7yfq9mwti2edPzhsCD0NZ5zWH1j.jpg",
     "release_date": "2019-12-13",
     "position": "F3S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -5311,7 +5311,7 @@
     "poster_path": "/mbk7wHbQbIMO3Wf1QeVoOV86xMb.jpg",
     "release_date": "2018-11-21",
     "position": "F3S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Alfonso Cuarón"
   },
@@ -5455,7 +5455,7 @@
     "poster_path": "/vnjFLUfjHBICuy5clH4rgwHf4d6.jpg",
     "release_date": "2011-02-03",
     "position": "F3S1",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "James Cameron"
   },
@@ -5491,7 +5491,7 @@
     "poster_path": "/2MHEIMdPMIbS8upmkU8RaYQxYlN.jpg",
     "release_date": "2005-09-25",
     "position": "F3S1",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Joss Whedon"
   },
@@ -5503,7 +5503,7 @@
     "poster_path": "/u1NIMb03WEcaTwNLpdAoCviskYp.jpg",
     "release_date": "2009-10-02",
     "position": "F3S2",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Joel Coen"
   },
@@ -5515,7 +5515,7 @@
     "poster_path": "/1Dth4Jbh7FzPguUIddmK43deTCy.jpg",
     "release_date": "1999-08-06",
     "position": "F3S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "M. Night Shyamalan"
   },
@@ -5527,7 +5527,7 @@
     "poster_path": "/e1rmQlUzbGmNUS59UC9cChYfFxa.jpg",
     "release_date": "1954-04-26",
     "position": "F3S2",
-    "genere": [],
+    "genere": [11],
     "vote": "",
     "regista": "Akira Kurosawa"
   },
@@ -5551,7 +5551,7 @@
     "poster_path": "/jncPwWvo907yCEFgajdFFOHMBkW.jpg",
     "release_date": "1964-10-18",
     "position": "F3S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Terence Fisher"
   },
@@ -5575,7 +5575,7 @@
     "poster_path": "/rYiiHUOndO4lMLiQZbmARIVmdVX.jpg",
     "release_date": "2010-02-14",
     "position": "F3S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Martin Scorsese"
   },
@@ -5635,7 +5635,7 @@
     "poster_path": "/mhized1z7HkXVOQZ3WKLhbqfNz2.jpg",
     "release_date": "1987-10-23",
     "position": "F3S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "John Carpenter"
   },
@@ -5647,7 +5647,7 @@
     "poster_path": "/8P4fZhbiqfeMk2btOeXLu0AKvBl.jpg",
     "release_date": "1991-02-14",
     "position": "F3S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Jonathan Demme"
   },
@@ -5657,7 +5657,7 @@
     "overview": "I Simpson (The Simpsons) è una popolare sitcom animata creata dal fumettista statunitense Matt Groening alla fine degli anni ottanta per la Fox Broadcasting Company. È una parodia satirica della società e dello stile di vita statunitensi, personificati dalla famiglia protagonista, di cui fanno parte Homer, Marge e i loro tre figli Bart, Lisa e Maggie.\n\nAmbientato in una cittadina statunitense chiamata Springfield, lo show tratta in chiave umoristica molti aspetti della condizione umana, così come la cultura, la società in generale e la stessa televisione.",
     "poster_path": "/fxLooktejTUqCvZl9ARhKMFNpbf.jpg",
     "position": "F3S2",
-    "genere": [],
+    "genere": [9],
     "vote": "",
     "regista": "Matt Groening"
   },
@@ -5669,7 +5669,7 @@
     "poster_path": "/4DveaQvOg1i9Tn9J0zStyfsS6pv.jpg",
     "release_date": "2012-03-29",
     "position": "F3S2",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Scott Derrickson"
   },
@@ -5693,7 +5693,7 @@
     "poster_path": "/rNCadXoLMW5xVzyEJehIfbeBvv1.jpg",
     "release_date": "2016-09-15",
     "position": "F3S2",
-    "genere": [],
+    "genere": [7],
     "vote": "",
     "regista": "Oliver Stone"
   },
@@ -5705,7 +5705,7 @@
     "poster_path": "/fh5cw0txNXABbKrYHzRR5THCVep.jpg",
     "release_date": "2013-08-01",
     "position": "F3S2",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Bong Joon-ho"
   },
@@ -5741,7 +5741,7 @@
     "poster_path": "/5YVRuUSmOXjQhJp2cHo0RHNky8A.jpg",
     "release_date": "2013-05-30",
     "position": "F3S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Nicolas Winding Refn"
   },
@@ -5777,7 +5777,7 @@
     "poster_path": "/cPjreWNgAdhGFN8rfNb6KIzpmjj.jpg",
     "release_date": "2011-03-30",
     "position": "F3S2",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Duncan Jones"
   },
@@ -5789,7 +5789,7 @@
     "poster_path": "/kwu1IppY5qsWtLqs0M0vnETK72H.jpg",
     "release_date": "2017-01-19",
     "position": "F3S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "M. Night Shyamalan"
   },
@@ -5993,7 +5993,7 @@
     "poster_path": "/uSiyxCgBDEtqVnBgRbdFh7u1SFB.jpg",
     "release_date": "2010-11-11",
     "position": "F3S2",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Colin Strause, Greg Strause"
   },
@@ -6005,7 +6005,7 @@
     "poster_path": "/6rglnNhFPDetSms0DAR2WcXKJvq.jpg",
     "release_date": "2007-09-15",
     "position": "F3S2",
-    "genere": [],
+    "genere": [12],
     "vote": "",
     "regista": "Takashi Miike"
   },
@@ -6017,7 +6017,7 @@
     "poster_path": "/eYu0WQabgAv5N2rFeZxKYiDLnCz.jpg",
     "release_date": "2016-09-07",
     "position": "F3S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Clint Eastwood"
   },
@@ -6053,7 +6053,7 @@
     "poster_path": "/pCdx7X5JLaSJZLNVtpryGSdjvvB.jpg",
     "release_date": "2017-08-02",
     "position": "F3S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Jang Hoon"
   },
@@ -6065,7 +6065,7 @@
     "poster_path": "/8BSD2Zo9E3yzsTjF7wYMrGObwGR.jpg",
     "release_date": "1976-02-09",
     "position": "F3S2",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Martin Scorsese"
   },
@@ -6077,7 +6077,7 @@
     "poster_path": "/7Q6rd3A27sgbznrhtuGNaQKbp9F.jpg",
     "release_date": "2011-09-30",
     "position": "F3S2",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Jeff Nichols"
   },
@@ -6149,7 +6149,7 @@
     "poster_path": "/46hMBuDeuxgbZi1NKDTiXLpKKqV.jpg",
     "release_date": "2009-04-30",
     "position": "F3S3",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Park Chan-wook"
   },
@@ -6161,7 +6161,7 @@
     "poster_path": "/YOULIUkg1TJx9O6uD5gVq78FbG.jpg",
     "release_date": "1986-05-16",
     "position": "F3S3",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Tony Scott"
   },
@@ -6173,7 +6173,7 @@
     "poster_path": "/eidieDxgVkm3xmpCm3VXwon9GEB.jpg",
     "release_date": "2010-09-15",
     "position": "F3S3",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Ben Affleck"
   },
@@ -6221,7 +6221,7 @@
     "poster_path": "/rW8igIeFq2reJPgUYK5gukdSVVB.jpg",
     "release_date": "1996-02-23",
     "position": "F3S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Danny Boyle"
   },
@@ -6233,7 +6233,7 @@
     "poster_path": "/7nUKLTDqMfuaAlzHJFFaufElyCh.jpg",
     "release_date": "1990-01-19",
     "position": "F3S3",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Ron Underwood"
   },
@@ -6315,7 +6315,7 @@
     "poster_path": "/4bbHcTViomdM0j7dM0Tm0CYQF1m.jpg",
     "release_date": "2000-11-22",
     "position": "F3S3",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "M. Night Shyamalan"
   },
@@ -6363,7 +6363,7 @@
     "poster_path": "/sbGr03BZaNc2k13QdTbX499SLRU.jpg",
     "release_date": "2009-02-27",
     "position": "F3S3",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Niels Arden Oplev"
   },
@@ -6375,7 +6375,7 @@
     "poster_path": "/a2fNteyZIxHNJoI7e6LZNScx7MV.jpg",
     "release_date": "2018-05-31",
     "position": "F3S3",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Leigh Whannell"
   },
@@ -6387,7 +6387,7 @@
     "poster_path": "/es5jl81hraocoXyjY6rBKRyxGzy.jpg",
     "release_date": "2009-09-04",
     "position": "F3S3",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Nicolas Winding Refn"
   },
@@ -6399,7 +6399,7 @@
     "poster_path": "/34j4G1OdAYfFbYwF5n0bLVtbMtk.jpg",
     "release_date": "2004-05-03",
     "position": "F3S3",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Stephen Sommers"
   },
@@ -6507,7 +6507,7 @@
     "poster_path": "/twlUmenWKB9EfUi3xA684m4solR.jpg",
     "release_date": "1983-02-04",
     "position": "F3S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "David Cronenberg"
   },
@@ -6519,7 +6519,7 @@
     "poster_path": "/vJcKTp8SggmO6K5klYurYdpzt8S.jpg",
     "release_date": "2006-02-23",
     "position": "F3S3",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "James McTeigue"
   },
@@ -6555,7 +6555,7 @@
     "poster_path": "/2QwQBOdiboV1ELWUIxZER1SmtCr.jpg",
     "release_date": "2019-09-07",
     "position": "F3S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Lorcan Finnegan"
   },
@@ -6565,7 +6565,7 @@
     "overview": "In un futuro post apocalittico, il mondo è popolato di zombie assassini in cerca di vittime. Un gruppo di sopravvissuti è in viaggio per trovare un posto sicuro dove vivere.",
     "poster_path": "/yTNP9UOdUbGBUZ7SSVng75IwAaY.jpg",
     "position": "F3S3",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Frank Darabont"
   },
@@ -6589,7 +6589,7 @@
     "poster_path": "/xZjOfEvlN8NxZ9MbHVDvDc1BQyw.jpg",
     "release_date": "1987-12-10",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Oliver Stone"
   },
@@ -6601,7 +6601,7 @@
     "poster_path": "/vVnhGE6rxyVztth82nhDs8VbGfS.jpg",
     "release_date": "2010-09-20",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Oliver Stone"
   },
@@ -6637,7 +6637,7 @@
     "poster_path": "/jQwkXN38AGrK2s3LJqxZow1Ic7z.jpg",
     "release_date": "2014-10-10",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Damien Chazelle"
   },
@@ -6673,7 +6673,7 @@
     "poster_path": "/5iXle2eCj1sI88zuWfBUZC03hJQ.jpg",
     "release_date": "2000-07-13",
     "position": "F3S4",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Bryan Singer"
   },
@@ -6697,7 +6697,7 @@
     "poster_path": "/fNHaXEWX9IQrGNrA47Ibc5Sc8Il.jpg",
     "release_date": "2010-12-22",
     "position": "F3S4",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Na Hong-jin"
   },
@@ -6709,7 +6709,7 @@
     "poster_path": "/jJOAEo8pEzf7BvaN9wA6pPA2HlZ.jpg",
     "release_date": "2015-05-21",
     "position": "F3S4",
-    "genere": [],
+    "genere": [4],
     "vote": "",
     "regista": "Takashi Miike"
   },
@@ -6781,7 +6781,7 @@
     "poster_path": "/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
     "release_date": "2022-03-01",
     "position": "F3S4",
-    "genere": [],
+    "genere": [3],
     "vote": "",
     "regista": "Matt Reeves"
   },
@@ -6817,7 +6817,7 @@
     "poster_path": "/oHifeE3PNx2U4JZ6iLuv35YWg6Z.jpg",
     "release_date": "2021-07-29",
     "position": "F3S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Neill Blomkamp"
   },
@@ -6841,7 +6841,7 @@
     "poster_path": "/d6apciXzzlRgWZQmdWrcwVVRlIW.jpg",
     "release_date": "2022-11-11",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Steven Spielberg"
   },
@@ -6853,7 +6853,7 @@
     "poster_path": "/xecpbH1yzrOirRWE48QJGCwDana.jpg",
     "release_date": "2016-05-31",
     "position": "F3S4",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Nicolas Winding Refn"
   },
@@ -6865,7 +6865,7 @@
     "poster_path": "/9MjzpAvNQv8zXeiDJIm58Xws0MD.jpg",
     "release_date": "2021-07-28",
     "position": "F3S4",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "James Gunn"
   },
@@ -6877,7 +6877,7 @@
     "poster_path": "/5eUBcyilUy0sy6AcqNpjgXQX4A4.jpg",
     "release_date": "1970-10-16",
     "position": "F3S4",
-    "genere": [5],
+    "genere": [8],
     "vote": "",
     "regista": "Elio Petri"
   },
@@ -6889,7 +6889,7 @@
     "poster_path": "/1npvm5xly8UdxWiG5Gh1GB8Ay15.jpg",
     "release_date": "2009-05-20",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Lars von Trier"
   },
@@ -6913,7 +6913,7 @@
     "poster_path": "/8Pi0SMvTJYigX6YKorCbxScSa54.jpg",
     "release_date": "2011-05-26",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Lars von Trier"
   },
@@ -6925,7 +6925,7 @@
     "poster_path": "/aanO8MVtUwywgsiRpfA0WcbHvM3.jpg",
     "release_date": "1980-02-07",
     "position": "F3S4",
-    "genere": [],
+    "genere": [8],
     "vote": "",
     "regista": "Ruggero Deodato"
   },
@@ -6949,7 +6949,7 @@
     "poster_path": "/oaz0Le3fT3R8jzlkXkNV7JAsd7x.jpg",
     "release_date": "1978-08-03",
     "position": "F3S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Joe Dante"
   },
@@ -6961,7 +6961,7 @@
     "poster_path": "/85b4BrBCG9JNY0YuKlkzqi7d35p.jpg",
     "release_date": "1982-08-14",
     "position": "F3S4",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "James Cameron"
   },
@@ -7069,7 +7069,7 @@
     "poster_path": "/i0yw1mFbB7sNGHCs7EXZPzFkdA1.jpg",
     "release_date": "2016-12-14",
     "position": "F3S4",
-    "genere": [],
+    "genere": [1],
     "vote": "",
     "regista": "Gareth Edwards"
   },
@@ -7081,7 +7081,7 @@
     "poster_path": "/pQq7fzLSrowAz4EYVSDZwKVX2Hr.jpg",
     "release_date": "1999-10-15",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "David Lynch"
   },
@@ -7093,7 +7093,7 @@
     "poster_path": "/wg4BkzOUAH3rB4YFi8DHTsDoQQk.jpg",
     "release_date": "1959-06-03",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "François Truffaut"
   },
@@ -7105,7 +7105,7 @@
     "poster_path": "/oIAN5x4wDiPxwFWvNPCKjQPEFN0.jpg",
     "release_date": "1962-01-23",
     "position": "F3S4",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "François Truffaut"
   },
@@ -7117,7 +7117,7 @@
     "poster_path": "/mf8DA0RCdwaw7M9wyqwrSz0VLGa.jpg",
     "release_date": "1960-03-16",
     "position": "F4S1",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Jean-Luc Godard"
   },
@@ -7165,7 +7165,7 @@
     "poster_path": "/gd8JNjwgiM6ZgGm6NFAkovQWoYn.jpg",
     "release_date": "2005-07-31",
     "position": "",
-    "genere": [],
+    "genere": [10],
     "vote": "",
     "regista": "Jim Jarmusch"
   },
@@ -7177,7 +7177,7 @@
     "poster_path": "/3N9guRAk61NqLO7lECy8a5Gn2PA.jpg",
     "release_date": "2018-05-17",
     "position": "",
-    "genere": [],
+    "genere": [5],
     "vote": "",
     "regista": "Lee Chang-dong"
   },
@@ -7189,7 +7189,7 @@
     "poster_path": "/aEnv6htVWUthBZEhh0p1BLXFLUY.jpg",
     "release_date": "2010-10-08",
     "position": "",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "Wes Craven"
   },
@@ -7201,7 +7201,7 @@
     "poster_path": "/j8JjRuwCg4jPDDDaCsC5mvVCiYm.jpg",
     "release_date": "1979-05-25",
     "position": "",
-    "genere": [],
+    "genere": [2],
     "vote": "",
     "regista": "David Cronenberg"
   },
@@ -7213,7 +7213,7 @@
     "poster_path": "/5gWqetgQaY6MHEyNeLngT3w0jSj.jpg",
     "release_date": "2003-06-13",
     "position": "",
-    "genere": [],
+    "genere": [6],
     "vote": "",
     "regista": "Kim Jee-woon"
   }
