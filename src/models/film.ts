@@ -5,9 +5,10 @@ export type Movie = {
   overview: string;
   poster_path: string;
   release_date: string;
-  position: string;
+  position: MoviePosition;
   genere: number[];
   vote: string;
+  regista: string;
 };
 
 export const GenreMap: Record<number, string> = {
@@ -24,3 +25,21 @@ export const GenreMap: Record<number, string> = {
   11: "War",
   12: "Western",
 };
+
+export type MoviePosition =
+  | "F1S1"
+  | "F1S2"
+  | "F1S3"
+  | "F1S4"
+  | "F2S1"
+  | "F2S2"
+  | "F2S3"
+  | "F2S4"
+  | "F3S1"
+  | "F3S2"
+  | "F3S3"
+  | "F3S4"
+  | "F4S1"
+  | "F4S2"
+  | "F4S3"
+  | "F4S4";

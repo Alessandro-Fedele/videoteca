@@ -5,6 +5,7 @@ import { useEffect, useMemo, useState } from "react";
 import "./MovieList.css";
 import Loader from "../Loader/Loader";
 import SearchInput from "../SearchInput/SearchInput";
+import MovieDetails from "../MovieDetails/MovieDetails";
 
 export default function MovieList() {
   const [movies, setMovies] = useState<Movie[]>([]);
@@ -12,6 +13,9 @@ export default function MovieList() {
   const [error, setError] = useState<string | null>(null);
 
   const [search, setSearch] = useState("");
+
+  // Dettaglio film
+  const [selectedMovie, setSelectedMovie] = useState<Movie | null>(null);
 
   useEffect(() => {
     const fetchMovies = async () => {
@@ -64,31 +68,49 @@ export default function MovieList() {
 
   return (
     <div>
-      <h3>{movies?.length} titoli</h3>
-      {/* 🔍 Campo di ricerca */}
-      <div className="search-bar">
-        <SearchInput value={search} onChange={setSearch} />
-      </div>
-
-      {/* 🎥 Mostra film */}
-      {Object.keys(moviesByGenre).length > 0 ? (
-        Object.keys(moviesByGenre).map((genre) => (
-          <div key={genre} className="category">
-            <h2>{genre}</h2>
-            <div className="movie-list">
-              {moviesByGenre[genre].map((movie) => (
-                <div key={movie.id}>
-                  <img
-                    src={`https://image.tmdb.org/t/p/w200${movie.poster_path}`}
-                    alt={movie.title}
-                  />
-                </div>
-              ))}
-            </div>
+      {!selectedMovie ? (
+        <>
+          <h3 className="movie-length">{movies?.length} titoli</h3>
+          {/* 🔍 Campo di ricerca */}
+          <div className="search-bar">
+            <SearchInput value={search} onChange={setSearch} />
           </div>
-        ))
+
+          {/* 🎥 Mostra film */}
+          {Object.keys(moviesByGenre).length > 0 ? (
+            Object.keys(moviesByGenre).map((genre) => (
+              <div key={genre} className="category">
+                <h2>{genre}</h2>
+                <div className="movie-list">
+                  {moviesByGenre[genre].map((movie) => (
+                    <div key={movie.id}>
+                      <button
+                        className="movie-card"
+                        onClick={() => setSelectedMovie(movie)}
+                      >
+                        <img
+                          className="list-movie-poster"
+                          src={`https://image.tmdb.org/t/p/w200${movie.poster_path}`}
+                          alt={movie.title}
+                        />
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))
+          ) : (
+            <p className="no-results">Mi dispiace, non ho questo film!</p>
+          )}
+        </>
       ) : (
-        <p className="no-results">Mi dispiace, non ho questo film!</p>
+        <>
+          {/* 🔥 Dettaglio film */}
+          <MovieDetails
+            movie={selectedMovie}
+            onBack={() => setSelectedMovie(null)}
+          />
+        </>
       )}
     </div>
   );
